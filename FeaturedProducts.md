@@ -8,3 +8,5 @@ This file contains a selected subset of products with descriptions and their pri
 2. Nicaraguan Tobacco-coffee ---- $7
 3. Australian Walnut Coffee ---- $5
 4. Sicilian espresso ---- $4
+
+10% discount will be available for all the featured products if somebody pays with Coffeehut_Wallet.
